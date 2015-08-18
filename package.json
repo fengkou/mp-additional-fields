@@ -1,0 +1,24 @@
+{
+  "name": "mp-additional-fields",
+  "version": "1.0.0",
+  "description": "mongoose plugin used in phoncol project, append additional fields",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phoncol/mp-additional-fields.git"
+  },
+  "keywords": [
+    "mongoose",
+    "plugin",
+    "phoncol"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phoncol/mp-additional-fields/issues"
+  },
+  "homepage": "https://github.com/phoncol/mp-additional-fields#readme"
+}
